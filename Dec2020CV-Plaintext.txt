@@ -1,0 +1,134 @@
+
+David Reid	
+davidedwinreid@gmail.com 
+
+
+
+
+
+
+
+
+Overview
+
+With 20 years Oracle experience including a period as a consultant for Oracle UK, I have worked for many different clients across several business areas – Banking (Credit Suisse First Boston), Energy (British Gas, Eon, Npower), Water (Welsh Water), Defence (Babcock), Health (University College London Hospitals), Telecoms (Cellular Operations) and Cyber Security (e2e-assure). My database skills are complemented by strong Unix experience and recent experience of development in an Agile environment. Most of my recent Oracle experience is related to large data migrations from legacy electricity industry systems to Oracle. My most recent 3GL experience has been with Pro*C on AIX and Linux but in the past I’ve used Pro*Cobol extensively at Credit Suisse, British Gas, Rover Cars and Bulmers. I’ve no ORDS experience but have called SOAP APIs via Java from within the database and have some small amount of recent experience calling Rest APIs from Python.
+
+Although my SC clearance expired in 2020 my NPPTv3 vetting remains current.
+Data Migration Projects - ’14 - ’20 - St Clements Services
+
+St Clements Services is a software consultancy part-owned by four of the big six UK utility companies (NPower, SSE, EDF and Scottish Power) and produces software on their behalf. I’ve worked on four separate data migration projects for various end customers to migrate their legacy electricity distribution systems to St Clements’ industry-standard integrated billing system.
+
+May  ’19  – June ’20: 	UK Power Networks
+June ’17  – Nov  ’17: 	Electricity Northwest
+Aug  ’16   – May ’17:	SSE
+May  ’14   – May ’15:	Northern Power Grid
+
+Each migration typically taking around a year with a team of around five business analysts and seven programmers split across data migration and functional streams. 
+
+Some of the larger electricity distributors bill in excess of £100M/month across retail and business (half-hourly metering and billing) customers. Data was migrated from a mix of Oracle, IBM, bespoke and other related systems including SAP and Excel spreadsheets with some tables containing hundreds of millions of rows and the resulting systems being several hundred Gb in size.
+
+I was responsible for coding, performance tuning, unit testing, writing reconciliation reports and run scripts in SQL, PL/SQL and Unix shell and for some customers the running and supervision of migrations during go-live weekends. I worked closely with St Clements’ business analysts and liaised with end-client DBAs and technical staff and in some cases their outsourced application support companies including Wipro and Tata. The most recent migration project was part of a wider change program managed by EY on behalf of UK Power Networks (the largest electricity distribution company in the UK).
+
+My most recent piece of work for St Clements was to demonstrate that their Oracle Pro*C data flow loads written for IBM AIX could be modified to run in a Linux environment for an anticipated cloud implementation.
+
+
+July ’18 - Mar ’19 Software Engineer - e2e Assure
+
+Software development and live support of internal 24x7 SOC and monitoring of Linux servers and network devices across a customer base that included government departments, police forces, Universities and public sector bodies. Agile development methodology supported by JIRA, git and Jenkins with target distributions of Ubuntu and Centos. 
+
+Jan ’18 - Jun -’18 SOC Analyst - e2e Assure
+
+SOC Analyst investigating potential network intrusions for a number of high-profile customers including Home Office, Ministry for Justice and National Air Traffic Control. 4-on 4-off 12hr shifts.
+
+Jan ’17 - Mar ’17: Cyber Academy Course
+
+Part of a diverse group of people that completed a 10-week government sponsored cyber retraining bootcamp run by Sans (https://www.sans.org/ukcyberacademy) and passed the GIAC GSEC and GCIH certifications. The core modules covered were :-
+
+
+SEC201: Computer and Technology Fundamentals.
+SEC401: Security Essentials Bootcamp Style.
+SEC504: Hackers Tools, Techniques, Exploits and Incident Handling.
+SEC508: Metasploit for Enterprise Pentesting.
+
+Cyber-related Certifications: GIAC Certified Incident Handler, GIAC Security Essentials, GIAC Python Coder, CISCO Network Cyber Ops Associate.
+
+
+
+Untitled 2
+
+
+
+
+
+Feb ’16 – July ’16: Oracle Database Developer – Brookfields Utilities UK.
+
+Brookfields Utilities is the UK’s leading last-mile utilities company installing and running gas, water, electricity and broadband networks to new-build residential and commercial developments. My projects have involved enhancing the server-side PL/SQL database packages delivering data to the company’s internet sites and 
+adding new functionality to the marketing department’s bespoke customer correspondence tool. Used Oracle’s Data Modeller to design and document improvements to the customer order tracking system. 
+
+
+May ’11 – Jan '13: Oracle Database Developer – Npower.
+
+Shell-scripting and SQL code to sanitise copies of live applications to be used in test environments. This was part of a project to migrate the UK datacentre to Germany. Phasing out of legacy demand forecasting system, development of perl routines to split incoming SAP-bound dataflows into digestable chunks and supported internal changes to industry dataflow routing as part of the UK datacentre relocation.
+
+
+August ’10 – May '11: Oracle Database Developer – Eon.
+
+Development of server-side PL/SQL code to feed Met Office weather data to the demand forecasting systems. Back-end processing was controlled by a suite a perl modules. I was also responsible for migrating the perl and shell scripts from Solaris to Linux (Redhat) and worked on a separate project writing shell-scripts to decrypt and load sensitive financial data into an Oracle database using GPG. Supported system and UAT testing and software releases into each environment.
+
+
+October ’04 – Aug '10: Development Team Leader – npower.
+
+Worked as development team leader on an invoice validation system. My role included database design, setting build standards, designing and developing components of the Forms infrastructure, technical design of key modules, writing and reviewing technical specifications, defining source code control and release procedures and responsible for the implementation of the completed application.  Team leader for a group of five developers assigning work, tracking progress and providing technical support. Also designed and implemented encryption process for securely transferring files from a newly acquired subsidiary company using GPG. This was developed on a PC using VMware Workstation to mimic the Windows 2003 and Unix end points of the two companies. I also enhanced the demand forecasting application to draw data from remote third-party services using PL/SQL wrappers around Java classes and assessed APEX and ADF Faces and provided recommendations to a team looking at replacing Oracle*Forms as a front-end for future npower systems.
+
+October ’03 – October ‘04: Contract A/P Babcock (formerly DML).
+
+Worked on the development, implementation and support of Oracle systems for the Submarine Support Management Group (SSMG). This provides engineering expertise for the maintenance of the Royal Navy’s submarine fleet.  I developed both server-side PL/SQL packages and Forms6i/Report6i client-server front end for a defect tracking system. I supported the user acceptance testing phase and was responsible for the implementation of the system. I also worked on the development of a system to support the user-acceptance of onboard weapons systems using web-deployed Forms10g. 
+April ’03 – October ’03: Contract A/P TUI  PLC.
+Developed and tested PL/SQL packages and korn shell scripts as part of a yield management system. This involved the extract of data from the online holiday booking systems via IBM MQ-Series into an Oracle 9i database.
+
+August ’02 – April '03: Contract A/P Npower (Leeds).
+Involved in the migration of existing customer information from a legacy gas billing system to an integrated Npower billing system, from review of functional requirements documents through technical design and related technical specifications, development of PL/SQL database packages and associated shell scripts through to producing release packs and implementation scripts for the internal test team.
+
+May ’01 – May ‘02: Contract A/P Babcock (formerly DML).
+Responsible for incremental release of a major application to the MoD. As well as coding work using Forms5 and PL/SQL packages, this included co-ordinating a large number of changes, liaising with users, producing acceptance test plans, arranging regression testing and getting the release accepted by the MoD before releasing it to 400+ client PCs. I also worked on the migration of an additional class of data from an Access database into an existing Oracle system along with enhancements to both client and server side components of the application. Again, I was also responsible for the production of documentation to MoD quality standards and for guiding the changes through MoD testing, acceptance and release.
+
+August ’00 – May ‘01: Contract A/P Cellular Operations.
+Enhancements and bug fixes to a call centre system using web-deployed Oracle*Forms. Also worked extensively with PL/SQL database packages, unix shell scripts, interfaces to external systems and setting up a software release environment. Design, build and test of call centre screens to accept telephone entries for a national competition.
+
+June ’98 – August ‘00: Contract A/P Bulmers Cider.
+Part of a small team that performed source system analysis, dimensional database design, build, test and support for an Oracle8i based data warehouse. Source system extracts from the Oracle bespoke and Oracle*Financials systems were written as PL/SQL database packages with shared packages providing common code and a small number of SQL*Loader scripts for loading spreadsheets data. My work on this project also involved development DBA work, PL/SQL build standards with supporting templates and infrastructure code, performance tuning, shell script templates and coding and basic Perl scripts for validation of the data loads. I also integrated the data warehouse processes into the bespoke scheduling system and undertook an upgrade from 8.0 to 8i. Oracle*Discoverer was used as a reporting tool for the warehouse with data also being supplied to Oracle*FinancialAnalyser and to a third party sales planning tool - JDA Arthur.
+
+
+
+October ’97 - June ’98: Contract A/P Hyder PLC.
+Worked on a variety of projects as part of the deregulation of the Electricity industry including database design, Oracle*Forms4.5 design and build, database package build and test, performance tuning and amendments for existing Oracle legacy systems.
+
+May '96 – October ‘97 : Contract A/P Kalamazoo Motor Trade PLC.
+Technical team leader originally responsible for the design and documentation of the conversion process from SQL*Forms3.0 to Oracle*Forms4.5 for a 1200 form application where GUI and character mode executables were generated from common source files. The design included provision for running in different European countries using NLS and Oracle Translation Manager with some Y2000 modifications and support for variable format date items. Other responsibilities included the conversion of existing reference code into new attached libraries and database procedures, V3.0 pre-processing scripts, basic shell scripts to ease administration of SCCS, the writing of generic attached library routines to implement some elements of GUI functionality in the converted system, Forms4.5/MS-Word integration, build standards for database packages and making client/server changes for critical modules. I also converted a number of Pro*C user-exits into PL/SQL procedures, both client-side and as database packages, helped train development staff in Oracle7 and Forms4.5 features and assisted in front-line support during and after the implementation.
+
+I was also involved in setting up the RPT to Oracle*Reports2.5 conversion project including the build of template reports, attached libraries and database packages, performance tuning including a re-write of the batch and reporting mechanisms to allow control of the number of concurrently running background processes, and the evaluation of Forms5.0.
+
+February '95 - May 96 : Contract A/P for Bulmers.
+Development of corporate customer system using Designer/2000, Developer/2000 and Forms4.5 generators on a Unix and MS-Windows3.1 platform. My responsibilities included database design, module design, build, system and user acceptance test planning and implementation of both phases. The system included extensive use of database packages and interfaced with other systems using a signalling mechanism designed around database pipes. I also produced standards documents and template forms for Bulmers Forms4.5 developments.
+
+October '92 - February '95 : Consultant for Oracle UK.
+Consultant for Oracle UK working in the Major Accounts Consultancy Division for a variety of clients:-
+
+AT&T Istel. August '94 - 6 months.
+Production of project Style Guide to define ‘look and feel’ for large scale Oracle*Forms development and production of Forms4.0 prototypes for user HCI clinics. Technical team leader for initial Forms4.0 build phase.
+
+Rover Group. March '94 - 3 months.
+At Rover I designed, built and tested a real-time interface between the GPMS application and existing Rover Group problem reporting systems integrating a variety of platforms - IBM/MVS DB2, TERADATA, Sun/Oracle7, VAX Oracle V6. This enabled the GPMS system to scavenge existing problem management systems and allowed engineers access to information from other systems to help determine problem causes and solutions. The source systems were updated with any changes of status while the problem was being investigated and with details of the solution once the engineers had finished their work. Any necessary engineering changes were handled by directly updating the source systems and all access to remote systems was transparent to the users. 
+
+Transact Systems Ltd. June '93 - 8 months.
+Worked on the systems design, module design, development guidelines, build and system test. The main function of the system was to capture student and course details and to produce a bar-coded membership card with enrolment details that gave students access to particular areas of a campus using swipecards. The registration module was written in Oracle*Forms4.0 with user-exits to call DLL functions controlling a video camera. The images produced were queried and inserted into the database using Oracle*Glue. This enabled a live video image to be displayed via Oracle*Forms with buttons to allow the image to be toggled between live and still, and to capture the image in the database. Barcodes were also displayed on-screen below the student’s image. Production of the physical membership card was done by a specialised card surface printer which also encrypted information onto the magnetic strip.
+
+Warwick University Manufacturing Group. March '93 - 4 weeks.
+Pre-sales assignment to developed prototype to demonstrate the suitability of Oracle*Forms4.0 as a front-end tool for the manufacturing group to use in developing systems for Rover Group. 
+
+Rover Group.
+Enhancements to a vehicle cost estimating system at the Land Rover works in Solihull. 
+
+Other Assignments while at Oracle UK:
+
+Customers including NCM Credit Insurance, Energis, Welsh Water, Colemans Foods, Reed Regional Newspapers, TSB, Unilever and  Cambridge University Examination Syndicate. Assignments covered straight build work, skills transfer and migration assistance for Oracle*Forms, DBA support and Oracle*Financials customisation. Attended training courses on most Oracle tools plus the full two-week Oracle DBA training.  
